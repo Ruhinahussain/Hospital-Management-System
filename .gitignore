@@ -1,0 +1,15 @@
+# XAMPP / local files
+*.log
+
+# Environment / secret files
+.env
+
+# Temporary setup files
+create_admin.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
