@@ -5,7 +5,9 @@ A web-based **Hospital Management System** developed as a DBMS mini project usin
 The system provides an admin interface to manage patients, doctors, appointments, prescriptions, medicines, and billing information in an organized database-driven application.
 
 ---
+## 🌐 Live Demo
 
+👉 **[Visit Ruhina Hospital Management System](https://ruhina-hospital.wuaze.com/)**
 ## 📌 About the Project
 
 The **Ruhina Hospital Management System** is designed to simplify and organize common hospital management activities.
